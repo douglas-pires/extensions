@@ -8,6 +8,7 @@
 /extensions/CodeBlocks                               @tisfeng
 /extensions/abstract-api                             @andreaselia
 /extensions/active-mississaugua                      @Aayush9029
+/extensions/adhan-time                               @mzaien
 /extensions/airplane                                 @pradeepb28
 /extensions/airport                                  @siddharthsharma94
 /extensions/algolia                                  @valentindotxyz
@@ -23,6 +24,7 @@
 /extensions/any-website-search                       @rben01
 /extensions/anybox                                   @francisfeng
 /extensions/api-icon-list                            @PitNikola
+/extensions/append-clipboard                         @koinzhang
 /extensions/apple-developer-docs                     @CaliCastle
 /extensions/apple-maps-search                        @djpowers @ratoru
 /extensions/apple-notes                              @tumispro @ron-myers @mathieudutour
@@ -141,6 +143,7 @@
 /extensions/dekudeals                                @rrroyal
 /extensions/designer-news                            @itsnwa
 /extensions/deutscherwetterdienst                    @NicolaiSchmid
+/extensions/dev-to                                   @aeither
 /extensions/devdocs                                  @pomdtr
 /extensions/devonthink                               @kudrykv
 /extensions/dex-screener                             @wp-lai
@@ -163,7 +166,7 @@
 /extensions/dota-2                                   @FlorianWendelborn
 /extensions/dotween-eases                            @metakirby5
 /extensions/dou-tu                                   @gaoyang
-/extensions/downloads-manager                        @thomaspaulmann
+/extensions/downloads-manager                        @thomaspaulmann @ron-myers @ron-myers
 /extensions/drafts                                   @FlohGro-dev
 /extensions/dribbble                                 @gebeto
 /extensions/dropbox                                  @chyroc
@@ -190,6 +193,7 @@
 /extensions/f1-standings                             @csigritz @sxn @qeude
 /extensions/facetime                                 @ron-myers
 /extensions/fantastical                              @devahschaefers
+/extensions/fastmail-masked-email                    @PhotonQuantum
 /extensions/fathom-analytics                         @DanielFerguson
 /extensions/fibonacci-sequence                       @adambutler
 /extensions/figma-files                              @michaelwschultz @pernielsentikaer
@@ -275,8 +279,10 @@
 /extensions/imdb                                     @ryan-exe
 /extensions/inertiajs-documentation                  @danyelkeddah
 /extensions/inkdrop                                  @yaeda
+/extensions/ios-hig                                  @eliperkins
 /extensions/ip-geolocation                           @koinzhang
 /extensions/iptv                                     @Aayush9029
+/extensions/is-it-toxic-to                           @chesterhow @pernielsentikaer
 /extensions/itch-io                                  @Aayush9029
 /extensions/itranslate                               @404J
 /extensions/jenkins                                  @k8scat
@@ -378,7 +384,7 @@
 /extensions/obsidian-bookmarks                       @Dru89
 /extensions/odin                                     @aamoussa97
 /extensions/office-quotes                            @braydoncoyer @sandypockets
-/extensions/ohdear                                   @andreaselia @pernielsentikaer
+/extensions/ohdear                                   @andreaselia @pernielsentikaer @Hodglim
 /extensions/ohmyzsh-plugins                          @k8scat
 /extensions/ones                                     @k8scat
 /extensions/open-in-json-hero                        @ericallam @ivanovart
@@ -394,6 +400,7 @@
 /extensions/oss-browser                              @404J
 /extensions/ossinsight                               @k8scat @pernielsentikaer
 /extensions/pagerduty                                @horimislime
+/extensions/palette-colors                           @douglas-pires
 /extensions/paperspace                               @yuri-becker
 /extensions/parabol                                  @BartoszJarocki @BartoszJarocki
 /extensions/parallels-virtual-machines               @danpalmer
@@ -479,6 +486,7 @@
 /extensions/script-commands                          @unnamedd
 /extensions/script-kit                               @pomdtr
 /extensions/search-composer-packagist                @danyelkeddah @macbookandrew
+/extensions/search-hexpm                             @jordelver
 /extensions/search-mdn                               @krzysztofzuraw @OBQun @k8scat
 /extensions/search-notion                            @sadanand-singh
 /extensions/search-npm                               @mrmartineau @reloadedhead
